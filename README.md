@@ -11,7 +11,7 @@ The **personal milestones table** outlines key milestones for practical programm
 | 1    | Github Profile Page                         | [https://github.com/`username`/`username` ](https://github.com/candicehbt/candicehbt)                                   |
 | 1    | Commit and Push Change from Command Line    | [https://github.com/`username`/`repo-name`/commit/`commit-nr`](https://github.com/candicehbt/ppchem/commit/56eec76b7ac18e17be0e9be59c0b058b864ec8b7)                |
 | 1    | Create a New Branch                         | [https://github.com/`username`/`repo-name`/tree/`new-branch-name`            ](https://github.com/candicehbt/ppchem/tree/new-branch-name)|
-| 1    | Create a conda environment                  | [https://github.com/`username`/`repo_name`] (https://github.com/candicehbt/ppchem/blob/main/env.yml)
+| 1    | Create a conda environment                  | [https://github.com/`username`/`repo_name`](https://github.com/candicehbt/ppchem/blob/main/env.yml)
 | 1    | Fork a Repo                                 | [https://github.com/`username`/`repo_name`](https://github.com/candicehbt/practical-programming-in-chemistry-milestones)
 | 1    | (Optional) Make a Pull Request              | |
 | 2    | (Optional) Review a Pull Request            | |
